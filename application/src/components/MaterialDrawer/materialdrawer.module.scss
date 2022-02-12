@@ -1,0 +1,14 @@
+.box {
+  .form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .save {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+}
