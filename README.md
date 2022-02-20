@@ -1,12 +1,5 @@
 # test-frontend
-Este repositório tem como fim testar os candidatos para vaga de front-end developer.
-
-<p align="center">Aplicação de gerencimaneto de clientes.</p>
-
-<div align="center">
-    <img alt="Move.it" title="Move.it" src="public/light-homepage-moveit.png" />
-    <img alt="Move.it" title="Move.it" src="public/dark-homepage-moveit.png" />
-</div>
+Aplicação de gerencimaneto de clientes.
 
 <br>
 
