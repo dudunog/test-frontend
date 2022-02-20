@@ -1,46 +1,30 @@
 # test-frontend
 Este repositório tem como fim testar os candidatos para vaga de front-end developer.
 
-Para esta vaga buscamos alguém apaixonado por HTML, CSS, JavaScript e atento aos detalhes!
+<p align="center">Aplicação de gerencimaneto de clientes.</p>
 
-Instruções Básicas: 
+<div align="center">
+    <img alt="Move.it" title="Move.it" src="public/light-homepage-moveit.png" />
+    <img alt="Move.it" title="Move.it" src="public/dark-homepage-moveit.png" />
+</div>
 
-- Faça um fork deste repositório
-- Atenção com espaçamentos e tamanhos de fonte 
-- O usuário do GitHub utilizado no exemplo pode ser qualquer um de sua escolha 
-- Ao finalizar, atualize o README.md no seu repositório com as instruções para instalar e executar sua entrega
+<br>
 
-### Requisitos
+## :hammer: Tecnologias
 
-O desenvolvimento precisa contemplar as 4 operações de CRUD, ou seja, inserir, selecionar, alterar e excluir um registro. 
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- Tela de login
-- Tela de recuperação senha
-- Tela de cadastro de cliente
-- Tela de exibição de cliente
-- Tela de editar cliente
-- Trabalhar com dados mockados
-- Filtrar clientes cadastrados por ordem decrescente
-- Filtro para buscar cliente por nome
+- HTML5
+- CSS
+- Material UI
+- React
+- Next.js
+- TypeScript
 
-## Stack Desejável
+## 🚀 Execute o projeto
 
-|                                                               |   |
-|---------------------------------------------------------------|---|
-| ReatJs/NextJs                                                 | ✔ |
-| Material UI/ Style components                                 | ✔ |
-| Boa organização do código                                     | ✔ |
-| Boa estruturação do projeto                                   | ✔ |
-| Desktop First                                                 | ✔ |
-| Commit’s legíveis, não commit ATÓMICO                         | ✔ |
-
-### Como pode se destacar:
-
-- Hospedar site em alguma plataforma de sua escolha
-- Clean code
-- Saber explicar o código se necessário
-- Utilização de componentes, pensando na reutilização
-
-### Envio do teste
-
- - Suba o repositório no seu Github e envie o link com o assunto: Teste Front-End para bernardo@mpiinformatica.com
+1. Clone este repositório `git clone https://github.com/dudunog/test-frontend.git`
+2. Entre no diretório do projeto `cd application`
+3. Instale as dependências com `yarn install` ou `npm install`
+4. Inicie o projeto em modo desenvolvimento com `yarn dev`
+5. Inicie também o json-server com os dados mockados, passando o arquivo db.json, localizado dentro da pasta application `json-server --watch db.json --port 4000`
