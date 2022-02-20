@@ -1,8 +1,6 @@
 # test-frontend
 Aplicação de gerencimaneto de clientes.
 
-<br>
-
 ## :hammer: Tecnologias
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
